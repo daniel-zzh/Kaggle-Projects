@@ -6,9 +6,10 @@
  * @Description: 
  * @FilePath: /undefined/Users/danielzhong/Desktop/Kaggle/README.md
 -->
-# Kaggle
- 11 Kaggle Projects
+# Projects
+ 
+## 11 Kaggle Projects
 
-### Netflix Movies and TV Shows
+- Netflix Movies and TV Shows
 Listings of movies and tv shows on Netflix - Regularly Updated
 https://www.kaggle.com/shivamb/netflix-shows
