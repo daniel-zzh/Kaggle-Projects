@@ -8,9 +8,7 @@
 -->
 # Projects
  
-### [Netflix Movies and TV Shows](https://github.com/daniel-zzh/practice_projects/tree/main/Netflix%20Movies%20and%20TV%20Shows)
-Listings of movies and tv shows on Netflix - Regularly Updated
-https://www.kaggle.com/shivamb/netflix-shows
+1. [Netflix Movies and TV Shows](https://github.com/daniel-zzh/practice_projects/tree/main/Netflix%20Movies%20and%20TV%20Shows): https://www.kaggle.com/shivamb/netflix-shows
 
 ### Telco Customer Churn
 Focused customer retention programs
