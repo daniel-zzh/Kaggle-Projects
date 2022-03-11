@@ -6,7 +6,7 @@
  * @Description: 
  * @FilePath: /undefined/Users/danielzhong/Desktop/practice_projects/README.md
 -->
-# Projects
+## Kaggle Projects
  
 1. [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows) 
 
