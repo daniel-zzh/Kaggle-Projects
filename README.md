@@ -16,23 +16,16 @@
 
 4. [Amazon Top 50 Bestselling Books 2009 - 2019](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
-All Lending Club loan data
-2007 through current Lending Club accepted and rejected lohttps://www.kaggle.com/wordsforthewise/lending-club
+5. [All Lending Club loan data](https://www.kaggle.com/wordsforthewise/lending-club)
 
-Brazilian E-Commerce Public Dataset by Olist
-100,000 Orders with product, customer and reviehttps://www.kaggle.com/olistbr/brazilian-ecommerce
+6. [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
-Mall Customer Segmentation Data
-Market Basket Ahttps://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+7. [Mall Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
-Mobile App Store (7200 apps)
-Analytics for Mobihttps://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+8. [Mobile App Store (7200 apps)](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
 
-Google Analytics Sample
-Google Analytics Sample (Bihttps://www.kaggle.com/bigquery/google-analytics-sample
+9. [Google Analytics Sample](https://www.kaggle.com/bigquery/google-analytics-sample)
 
-Shopify app store
-Web scraped data of apps and reviews (from shopify apps markehttps://www.kaggle.com/usernam3/shopify-app-store
+10. [Shopify app store](https://www.kaggle.com/usernam3/shopify-app-store)
 
-PPP Loan Data (Paycheck Protection Program)
-A look at over 600,000 small businesses that partihttps://www.kaggle.com/susuwatari/ppp-loan-data-paycheck-protection-program
+11. [PPP Loan Data (Paycheck Protection Program)](https://www.kaggle.com/susuwatari/ppp-loan-data-paycheck-protection-program)
