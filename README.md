@@ -8,44 +8,31 @@
 -->
 # Projects
  
-1. [Netflix Movies and TV Shows](https://github.com/daniel-zzh/practice_projects/tree/main/Netflix%20Movies%20and%20TV%20Shows): https://www.kaggle.com/shivamb/netflix-shows
+1. [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows) 
 
-### Telco Customer Churn
-Focused customer retention programs
-https://www.kaggle.com/blastchar/telco-customer-churn
+2. [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
-### Video Game Sales
-Analyze sales data from more than 16,500 games.
-https://www.kaggle.com/gregorut/videogamesales
+3. [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
 
-### Amazon Top 50 Bestselling Books 2009 - 2019
-Scrapped dataset on October 2020, categories (fiction/non-fiction) added
-https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+4. [Amazon Top 50 Bestselling Books 2009 - 2019](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
 
-### All Lending Club loan data
-2007 through current Lending Club accepted and rejected loan data
-https://www.kaggle.com/wordsforthewise/lending-club
+All Lending Club loan data
+2007 through current Lending Club accepted and rejected lohttps://www.kaggle.com/wordsforthewise/lending-club
 
-### Brazilian E-Commerce Public Dataset by Olist
-100,000 Orders with product, customer and reviews info
-https://www.kaggle.com/olistbr/brazilian-ecommerce
+Brazilian E-Commerce Public Dataset by Olist
+100,000 Orders with product, customer and reviehttps://www.kaggle.com/olistbr/brazilian-ecommerce
 
-### Mall Customer Segmentation Data
-Market Basket Analysis
-https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+Mall Customer Segmentation Data
+Market Basket Ahttps://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-### Mobile App Store (7200 apps)
-Analytics for Mobile Apps
-https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+Mobile App Store (7200 apps)
+Analytics for Mobihttps://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
 
-### Google Analytics Sample
-Google Analytics Sample (BigQuery)
-https://www.kaggle.com/bigquery/google-analytics-sample
+Google Analytics Sample
+Google Analytics Sample (Bihttps://www.kaggle.com/bigquery/google-analytics-sample
 
-### Shopify app store
-Web scraped data of apps and reviews (from shopify apps marketplace)
-https://www.kaggle.com/usernam3/shopify-app-store
+Shopify app store
+Web scraped data of apps and reviews (from shopify apps markehttps://www.kaggle.com/usernam3/shopify-app-store
 
-### PPP Loan Data (Paycheck Protection Program)
-A look at over 600,000 small businesses that participated
-https://www.kaggle.com/susuwatari/ppp-loan-data-paycheck-protection-program
+PPP Loan Data (Paycheck Protection Program)
+A look at over 600,000 small businesses that partihttps://www.kaggle.com/susuwatari/ppp-loan-data-paycheck-protection-program
